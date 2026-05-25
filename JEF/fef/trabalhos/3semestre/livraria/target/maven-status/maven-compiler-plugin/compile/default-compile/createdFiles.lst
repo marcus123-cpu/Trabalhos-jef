@@ -1,7 +1,0 @@
-br\com\livraria\model\Livro.class
-br\com\livraria\util\Conexao.class
-br\com\livraria\dao\EstadoDAO.class
-br\com\livraria\controller\EstadoServlet.class
-br\com\livraria\dao\LivroDAO.class
-br\com\livraria\model\Estado.class
-br\com\livraria\controller\LivroServlet.class
